@@ -111,8 +111,10 @@ O projeto "Raízes da Educação" é um passo importante para a inclusão educac
 🖥️ Home
 
 Tela inicial que permite acesso aos principais conteúdos do site.
+<img src="/env/meu_projeto/cadastro/static/img/telaInicial.png">
 
 🧾 Tela de Cadastro e Login
+
 
 Interface para cadastro de novos usuários e login de usuários existentes.
 
