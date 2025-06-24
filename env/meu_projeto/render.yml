@@ -7,5 +7,5 @@ services:
     envVars:
       - key: DJANGO_SETTINGS_MODULE
         value: meu_projeto.settings
-      - key: PYTHON_VERSION
+      - key: SECRET_KEY
         value: 3.11
